@@ -5,10 +5,10 @@ O projeto Laços e interações foi realizado composto pela seguinte matéria:
 ### Programação web I
 Criamos um web site para que as pessoas consigam selecionar seus estilos musicais preferidos, e estilizamos usando VSCode.
 ## 📄 Descrição do projeto
-Laços e interações foi criado durante as aulas de programação web I, temos 6 estilos musicais disponíveis. Estes são: Eletronica, rock, sertanejo, pagode, internacional e gospel. Também existe um botão com a seguinte pergunta:"Quantos foram selecionados?", porém ele ainda não tem funcionalidade.
+Laços e interações foi criado durante as aulas de programação web I, temos 9 estilos musicais disponíveis. Estes são: Eletronica, rock, sertanejo, pagode, internacional, gospel, pop, romântica e MPB. Também existe um botão com a seguinte pergunta:"Quantos foram selecionados?", porém ele ainda não tem funcionalidade.
 ## Imagem do site:
-<img src="img1.png" width="50%"> <img src="img3.png" width="50%"> <br>
-<img src="img2.png" width="50%"> <img src="img4.png" width="50%"> <br>
+<img src="Captura de tela 2024-05-16 114051.png" width="50%"> <img src="img3.png" width="50%"> <br>
+
 
 
 ## 🛠️ Tecnologias  
