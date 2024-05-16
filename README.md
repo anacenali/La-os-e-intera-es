@@ -9,17 +9,17 @@ Laços e interações foi criado durante as aulas de programação web I, temos 
 ## Imagem do site:
 <img src="Captura de tela 2024-05-16 114051.png" width="50%"> <img src="img3.png" width="50%"> <br>
 
-
-
 ## 🛠️ Tecnologias  
 * HTML
 * CSS
 * JavaScript
+
 ### 🔧 Ferramentas
 * VSCODE
 * GitHub
 ### Sites Utilizados
-* Github
+* developer.mozilla
+
 ### Autores 
  [<img loading="lazy" src="https://user-images.githubusercontent.com/140809968/272249265-389c8791-1744-4a19-a9a0-fde05e6dd499.jpg" width=95><br><sub>Ana Laura</sub>](https://github.com/anacenali) 
 
