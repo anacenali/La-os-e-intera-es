@@ -18,7 +18,7 @@ Laços e interações foi criado durante as aulas de programação web I, temos 
 * VSCODE
 * GitHub
 ### Sites Utilizados
-* Developer.mozilla
+* (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
 ### Autores 
  [<img loading="lazy" src="https://user-images.githubusercontent.com/140809968/272249265-389c8791-1744-4a19-a9a0-fde05e6dd499.jpg" width=95><br><sub>Ana Laura</sub>](https://github.com/anacenali) 
