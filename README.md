@@ -7,7 +7,7 @@ Criamos um web site para que as pessoas consigam selecionar seus estilos musicai
 ## 📄 Descrição do projeto
 Laços e interações foi criado durante as aulas de programação web I, temos 9 estilos musicais disponíveis. Estes são: Eletronica, rock, sertanejo, pagode, internacional, gospel, pop, romântica e MPB. Também existe um botão com a seguinte pergunta:"Quantos foram selecionados?", porém ele ainda não tem funcionalidade.
 ## Imagem do site:
-<img src="Captura de tela 2024-05-16 114051.png" width="50%"> <img src="img3.png" width="50%"> <br>
+<img src="Captura de tela 2024-05-16 114051.png" width="50%">
 
 ## 🛠️ Tecnologias  
 * HTML
