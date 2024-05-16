@@ -1,6 +1,10 @@
 body {
+    background-color: rgb(81, 109, 109);
     font-family:verdana;
     background-color: linear;
+  }
+  h1{
+    font-family: verdana;
   }
  
   form {
@@ -12,7 +16,7 @@ body {
     background-color: #1c5f68;
     align-items: center;
     position: relative;
-    bottom: center;
+    bottom: -130px;
   }
  
   label {
